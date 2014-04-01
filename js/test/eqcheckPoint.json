@@ -1,0 +1,411 @@
+{
+    "sources": [
+        {
+            "number": 1,
+            "name": "TiVo TiVo ",
+            "icon": "18",
+            "pageflip": "62",
+            "mtcOptions": {
+                "mtc": "tcpip",
+                "mtcvalue": "31339",
+                "eqid": "20018",
+                "ip": "192.168.1.150"
+            },
+            "commspec": "192.168.1.150:31339",
+            "commprotocol": "tcpip",
+            "eqid": "20018",
+            "appUrl": "fb129267530460609://",
+            "type": "s",
+            "makeModel": "TiVo TiVo "
+        },
+        {
+            "number": 2,
+            "name": "Bluray Pioneer BDP-53FD",
+            "icon": "2",
+            "pageflip": "66",
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "1",
+                "eqid": "21011"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "21011",
+            "type": "s",
+            "makeModel": "Bluray Pioneer BDP-53FD"
+        },
+        {
+            "number": 3,
+            "name": "Integra Thingy",
+            "icon": "null",
+            "pageflip": "null",
+            "mtcOptions": {
+                "mtc": "tcpip",
+                "mtcvalue": "60128",
+                "eqid": "11006",
+                "ip": "192.168.1.147"
+            },
+            "commspec": "192.168.1.147:60128",
+            "commprotocol": "tcpip",
+            "eqid": "11006",
+            "type": "s",
+            "makeModel": "Receiver (Tuner, iPod/USB, Net Radio, AUX, BD) Integra DTR-40.4"
+        },
+        {
+            "number": 13,
+            "name": "TV Apps",
+            "icon": "13",
+            "pageflip": "65",
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "2",
+                "eqid": "20027"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "20027",
+            "type": "s",
+            "makeModel": "TV Apps Samsung Smart TV UN Series"
+        }
+    ],
+    "environments": [
+        {
+            "number": 7,
+            "name": "Thermostat Crestron CHV-TSTATEX",
+            "icon": "null",
+            "pageflip": "null",
+            "mtcOptions": {
+                "mtc": "RF-ID",
+                "mtcvalue": "41",
+                "eqid": "40001"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "40001",
+            "type": "e",
+            "makeModel": "Thermostat Crestron CHV-TSTATEX"
+        },
+        {
+            "number": 8,
+            "name": "Thermostat Crestron CHV-TSTATEX",
+            "icon": "null",
+            "pageflip": "null",
+            "mtcOptions": {
+                "mtc": "RF-ID",
+                "mtcvalue": "42",
+                "eqid": "40002"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "40002",
+            "type": "e",
+            "makeModel": "Thermostat Crestron CHV-TSTATEX"
+        },
+        {
+            "number": 9,
+            "name": "Other Thermometer",
+            "icon": "null",
+            "pageflip": "null",
+            "mtcOptions": {
+                "mtc": "rs232",
+                "mtcvalue": "Port-1",
+                "eqid": "40051"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "40051",
+            "type": "e",
+            "makeModel": "Thermostat CoolMaster "
+        }
+    ],
+    "equipment": [
+        {
+            "number": 1,
+            "name": "TiVo TiVo ",
+            "icon": "18",
+            "pageflip": "62",
+            "mtcOptions": {
+                "mtc": "tcpip",
+                "mtcvalue": "31339",
+                "eqid": "20018",
+                "ip": "192.168.1.150"
+            },
+            "commspec": "192.168.1.150:31339",
+            "commprotocol": "tcpip",
+            "eqid": "20018",
+            "appUrl": "fb129267530460609://",
+            "type": "s",
+            "makeModel": "TiVo TiVo "
+        },
+        {
+            "number": 2,
+            "name": "Bluray Pioneer BDP-53FD",
+            "icon": "2",
+            "pageflip": "66",
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "1",
+                "eqid": "21011"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "21011",
+            "type": "s",
+            "makeModel": "Bluray Pioneer BDP-53FD"
+        },
+        {
+            "number": 3,
+            "name": "Integra Thingy",
+            "icon": "null",
+            "pageflip": "null",
+            "mtcOptions": {
+                "mtc": "tcpip",
+                "mtcvalue": "60128",
+                "eqid": "11006",
+                "ip": "192.168.1.147"
+            },
+            "commspec": "192.168.1.147:60128",
+            "commprotocol": "tcpip",
+            "eqid": "11006",
+            "type": "s",
+            "makeModel": "Receiver (Tuner, iPod/USB, Net Radio, AUX, BD) Integra DTR-40.4"
+        },
+        {
+            "number": 13,
+            "name": "TV Apps",
+            "icon": "13",
+            "pageflip": "65",
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "2",
+                "eqid": "20027"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "20027",
+            "type": "s",
+            "makeModel": "TV Apps Samsung Smart TV UN Series"
+        },
+        {
+            "number": 10,
+            "name": "TV Sharp ",
+            "icon": "null",
+            "pageflip": "null",
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "3",
+                "eqid": "10008"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "10008",
+            "type": "d",
+            "makeModel": "TV Sharp "
+        },
+        {
+            "number": 11,
+            "name": "TV Sharp ",
+            "icon": "null",
+            "pageflip": "null",
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "4",
+                "eqid": "10009"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "10009",
+            "type": "d",
+            "makeModel": "TV Sharp "
+        },
+        {
+            "number": 12,
+            "name": "TV Panasonic",
+            "icon": "null",
+            "pageflip": "null",
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "5",
+                "eqid": "10015"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "10015",
+            "type": "d",
+            "makeModel": "TV Panasonic "
+        },
+        {
+            "number": 7,
+            "name": "Thermostat Crestron CHV-TSTATEX",
+            "icon": "null",
+            "pageflip": "null",
+            "mtcOptions": {
+                "mtc": "RF-ID",
+                "mtcvalue": "41",
+                "eqid": "40001"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "40001",
+            "type": "e",
+            "makeModel": "Thermostat Crestron CHV-TSTATEX"
+        },
+        {
+            "number": 8,
+            "name": "Thermostat Crestron CHV-TSTATEX",
+            "icon": "null",
+            "pageflip": "null",
+            "mtcOptions": {
+                "mtc": "RF-ID",
+                "mtcvalue": "42",
+                "eqid": "40002"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "40002",
+            "type": "e",
+            "makeModel": "Thermostat Crestron CHV-TSTATEX"
+        },
+        {
+            "number": 9,
+            "name": "Other Thermometer",
+            "icon": "null",
+            "pageflip": "null",
+            "mtcOptions": {
+                "mtc": "rs232",
+                "mtcvalue": "Port-1",
+                "eqid": "40051"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "40051",
+            "type": "e",
+            "makeModel": "Thermostat CoolMaster "
+        },
+        {
+            "number": 4,
+            "name": "Audio Switcher Crestron C2N-AMP-4x100",
+            "icon": "null",
+            "pageflip": "null",
+            "mtcOptions": {
+                "mtc": "Cresnet",
+                "mtcvalue": "FB",
+                "eqid": "30501"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "30501",
+            "type": "a",
+            "makeModel": "Audio Switcher Crestron C2N-AMP-4x100"
+        },
+        {
+            "number": 5,
+            "name": "Video Switcher Key Digital KD-4X4",
+            "icon": "null",
+            "pageflip": "null",
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "1",
+                "eqid": "30001"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "30001",
+            "type": "v",
+            "makeModel": "Video Switcher Key Digital KD-4X4"
+        }
+    ],
+    "displays": [
+        {
+            "number": 10,
+            "name": "TV Sharp ",
+            "icon": "null",
+            "pageflip": "null",
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "3",
+                "eqid": "10008"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "10008",
+            "type": "d",
+            "makeModel": "TV Sharp "
+        },
+        {
+            "number": 11,
+            "name": "TV Sharp ",
+            "icon": "null",
+            "pageflip": "null",
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "4",
+                "eqid": "10009"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "10009",
+            "type": "d",
+            "makeModel": "TV Sharp "
+        },
+        {
+            "number": 12,
+            "name": "TV Panasonic",
+            "icon": "null",
+            "pageflip": "null",
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "5",
+                "eqid": "10015"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "10015",
+            "type": "d",
+            "makeModel": "TV Panasonic "
+        }
+    ],
+    "device": [],
+    "switchers": [
+        {
+            "number": 4,
+            "name": "Audio Switcher Crestron C2N-AMP-4x100",
+            "icon": "null",
+            "pageflip": "null",
+            "mtcOptions": {
+                "mtc": "Cresnet",
+                "mtcvalue": "FB",
+                "eqid": "30501"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "30501",
+            "type": "a",
+            "makeModel": "Audio Switcher Crestron C2N-AMP-4x100"
+        },
+        {
+            "number": 5,
+            "name": "Video Switcher Key Digital KD-4X4",
+            "icon": "null",
+            "pageflip": "null",
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "1",
+                "eqid": "30001"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "30001",
+            "type": "v",
+            "makeModel": "Video Switcher Key Digital KD-4X4"
+        }
+    ],
+    "ports": [
+        "empty",
+        "empty",
+        "empty",
+        "empty",
+        "empty"
+    ],
+    "rooms": []
+}

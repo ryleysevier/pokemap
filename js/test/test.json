@@ -1,0 +1,3147 @@
+{
+    "sources": [
+        {
+            "number": 1,
+            "name": "Apple TV",
+            "icon": "3",
+            "pageflip": "53",
+            "wObj": {
+                "makeModel": "Streamer Apple TV ",
+                "type": "s",
+                "icon": "3",
+                "pageflip": "53",
+                "mtcOptions": [
+                    "ir"
+                ],
+                "mtcValues": [
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "22001"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "22002"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "3",
+                        "eqid": "22003"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "4",
+                        "eqid": "22004"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "5",
+                        "eqid": "22005"
+                    }
+                ],
+                "appUrl": ""
+            },
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "1",
+                "eqid": "22001"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "22001",
+            "type": "s",
+            "makeModel": "Streamer Apple TV "
+        },
+        {
+            "number": 2,
+            "name": "Fios",
+            "icon": "null",
+            "pageflip": "null",
+            "wObj": {
+                "makeModel": "Fios Motorola ",
+                "type": "s",
+                "icon": "null",
+                "pageflip": "null",
+                "mtcOptions": [
+                    "ir"
+                ],
+                "mtcValues": [
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "20011"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "20012"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "3",
+                        "eqid": "20013"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "4",
+                        "eqid": "20014"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "5",
+                        "eqid": "20015"
+                    }
+                ],
+                "appUrl": ""
+            },
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "2",
+                "eqid": "20012"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "20012",
+            "type": "s",
+            "makeModel": "Fios Motorola "
+        },
+        {
+            "number": 4,
+            "name": "BluRay",
+            "icon": "2",
+            "pageflip": "52",
+            "wObj": {
+                "makeModel": "Bluray Samsung ",
+                "type": "s",
+                "icon": "2",
+                "pageflip": "52",
+                "mtcOptions": [
+                    "ir"
+                ],
+                "mtcValues": [
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "21001"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "21002"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "3",
+                        "eqid": "21003"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "4",
+                        "eqid": "21004"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "5",
+                        "eqid": "21005"
+                    }
+                ],
+                "appUrl": ""
+            },
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "4",
+                "eqid": "21004"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "21004",
+            "type": "s",
+            "makeModel": "Bluray Samsung "
+        }
+    ],
+    "environments": [],
+    "equipment": [
+        {
+            "number": 1,
+            "name": "Apple TV",
+            "icon": "3",
+            "pageflip": "53",
+            "wObj": {
+                "makeModel": "Streamer Apple TV ",
+                "type": "s",
+                "icon": "3",
+                "pageflip": "53",
+                "mtcOptions": [
+                    "ir"
+                ],
+                "mtcValues": [
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "22001"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "22002"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "3",
+                        "eqid": "22003"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "4",
+                        "eqid": "22004"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "5",
+                        "eqid": "22005"
+                    }
+                ],
+                "appUrl": ""
+            },
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "1",
+                "eqid": "22001"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "22001",
+            "type": "s",
+            "makeModel": "Streamer Apple TV "
+        },
+        {
+            "number": 2,
+            "name": "Fios",
+            "icon": "null",
+            "pageflip": "null",
+            "wObj": {
+                "makeModel": "Fios Motorola ",
+                "type": "s",
+                "icon": "null",
+                "pageflip": "null",
+                "mtcOptions": [
+                    "ir"
+                ],
+                "mtcValues": [
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "20011"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "20012"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "3",
+                        "eqid": "20013"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "4",
+                        "eqid": "20014"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "5",
+                        "eqid": "20015"
+                    }
+                ],
+                "appUrl": ""
+            },
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "2",
+                "eqid": "20012"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "20012",
+            "type": "s",
+            "makeModel": "Fios Motorola "
+        },
+        {
+            "number": 4,
+            "name": "BluRay",
+            "icon": "2",
+            "pageflip": "52",
+            "wObj": {
+                "makeModel": "Bluray Samsung ",
+                "type": "s",
+                "icon": "2",
+                "pageflip": "52",
+                "mtcOptions": [
+                    "ir"
+                ],
+                "mtcValues": [
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "21001"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "21002"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "3",
+                        "eqid": "21003"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "4",
+                        "eqid": "21004"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "5",
+                        "eqid": "21005"
+                    }
+                ],
+                "appUrl": ""
+            },
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "4",
+                "eqid": "21004"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "21004",
+            "type": "s",
+            "makeModel": "Bluray Samsung "
+        },
+        {
+            "number": 5,
+            "name": "Amsung",
+            "icon": "null",
+            "pageflip": "null",
+            "wObj": {
+                "makeModel": "TV Samsung UN series",
+                "type": "d",
+                "icon": "null",
+                "pageflip": "null",
+                "mtcOptions": [
+                    "ir",
+                    "rs232"
+                ],
+                "mtcValues": [
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10001"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10002"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "3",
+                        "eqid": "10003"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "4",
+                        "eqid": "10004"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "5",
+                        "eqid": "10005"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10201"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10202"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10203"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10204"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10205"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10206"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10207"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10208"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10209"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10210"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10211"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10212"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10213"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10214"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10215"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10216"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10217"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10218"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10219"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10220"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10221"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10222"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10223"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10224"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10225"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10226"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10227"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10228"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10229"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10230"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10231"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10232"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10233"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10234"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10235"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10236"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10237"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10238"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10239"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10240"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10241"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10242"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10243"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10244"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10245"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10246"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10247"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10248"
+                    }
+                ],
+                "appUrl": ""
+            },
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "5",
+                "eqid": "10005"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "10005",
+            "type": "d",
+            "makeModel": "TV Samsung UN series"
+        },
+        {
+            "number": 6,
+            "name": "Sony",
+            "icon": "null",
+            "pageflip": "null",
+            "wObj": {
+                "makeModel": "TV Panasonic ",
+                "type": "d",
+                "icon": "null",
+                "pageflip": "null",
+                "mtcOptions": [
+                    "ir"
+                ],
+                "mtcValues": [
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10011"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10012"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "3",
+                        "eqid": "10013"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "4",
+                        "eqid": "10014"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "5",
+                        "eqid": "10015"
+                    }
+                ],
+                "appUrl": ""
+            },
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "5",
+                "eqid": "10015"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "10015",
+            "type": "d",
+            "makeModel": "TV Panasonic "
+        },
+        {
+            "number": 8,
+            "name": "Receiver (Tuner, iPod/USB, Net Radio, AUX, BD) Integra DTR-40.4",
+            "icon": "null",
+            "pageflip": "null",
+            "wObj": {
+                "makeModel": "Receiver (Tuner, iPod/USB, Net Radio, AUX, BD) Integra DTR-40.4",
+                "type": "r",
+                "icon": "null",
+                "pageflip": "null",
+                "mtcOptions": [
+                    "tcpip"
+                ],
+                "mtcValues": [
+                    {
+                        "mtc": "tcpip",
+                        "mtcvalue": "60128",
+                        "eqid": "11006",
+                        "ip": "192.168.1.213"
+                    },
+                    {
+                        "mtc": "tcpip",
+                        "mtcvalue": "60128",
+                        "eqid": "11007"
+                    }
+                ],
+                "appUrl": ""
+            },
+            "mtcOptions": {
+                "mtc": "tcpip",
+                "mtcvalue": "60128",
+                "eqid": "11006",
+                "ip": "192.168.1.213"
+            },
+            "commspec": "192.168.1.213:60128",
+            "commprotocol": "tcpip",
+            "eqid": "11006",
+            "type": "r",
+            "makeModel": "Receiver (Tuner, iPod/USB, Net Radio, AUX, BD) Integra DTR-40.4"
+        },
+        {
+            "number": 9,
+            "name": "Audio Switcher Crestron C2N-AMP-4x100",
+            "icon": "null",
+            "pageflip": "null",
+            "wObj": {
+                "makeModel": "Audio Switcher Crestron C2N-AMP-4x100",
+                "type": "a",
+                "icon": "null",
+                "pageflip": "null",
+                "mtcOptions": [
+                    "Cresnet"
+                ],
+                "mtcValues": [
+                    {
+                        "mtc": "Cresnet",
+                        "mtcvalue": "FB",
+                        "eqid": "30501"
+                    },
+                    {
+                        "mtc": "Cresnet",
+                        "mtcvalue": "FC",
+                        "eqid": "30502"
+                    }
+                ],
+                "appUrl": ""
+            },
+            "mtcOptions": {
+                "mtc": "Cresnet",
+                "mtcvalue": "FB",
+                "eqid": "30501"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "30501",
+            "type": "a",
+            "makeModel": "Audio Switcher Crestron C2N-AMP-4x100"
+        },
+        {
+            "number": 10,
+            "name": "Audio Switcher Crestron C2N-AMP-4x100",
+            "icon": "null",
+            "pageflip": "null",
+            "wObj": {
+                "makeModel": "Audio Switcher Crestron C2N-AMP-4x100",
+                "type": "a",
+                "icon": "null",
+                "pageflip": "null",
+                "mtcOptions": [
+                    "Cresnet"
+                ],
+                "mtcValues": [
+                    {
+                        "mtc": "Cresnet",
+                        "mtcvalue": "FB",
+                        "eqid": "30501"
+                    },
+                    {
+                        "mtc": "Cresnet",
+                        "mtcvalue": "FC",
+                        "eqid": "30502"
+                    }
+                ],
+                "appUrl": ""
+            },
+            "mtcOptions": {
+                "mtc": "Cresnet",
+                "mtcvalue": "FC",
+                "eqid": "30502"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "30502",
+            "type": "a",
+            "makeModel": "Audio Switcher Crestron C2N-AMP-4x100"
+        }
+    ],
+    "displays": [
+        {
+            "number": 5,
+            "name": "Amsung",
+            "icon": "null",
+            "pageflip": "null",
+            "wObj": {
+                "makeModel": "TV Samsung UN series",
+                "type": "d",
+                "icon": "null",
+                "pageflip": "null",
+                "mtcOptions": [
+                    "ir",
+                    "rs232"
+                ],
+                "mtcValues": [
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10001"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10002"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "3",
+                        "eqid": "10003"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "4",
+                        "eqid": "10004"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "5",
+                        "eqid": "10005"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10201"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10202"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10203"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10204"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10205"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10206"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10207"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10208"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10209"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10210"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10211"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10212"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10213"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10214"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10215"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10216"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10217"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10218"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10219"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10220"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10221"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10222"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10223"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10224"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10225"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10226"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10227"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10228"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10229"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10230"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10231"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10232"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10233"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10234"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10235"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10236"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10237"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10238"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10239"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10240"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10241"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10242"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10243"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10244"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10245"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10246"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10247"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10248"
+                    }
+                ],
+                "appUrl": ""
+            },
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "5",
+                "eqid": "10005"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "10005",
+            "type": "d",
+            "makeModel": "TV Samsung UN series"
+        },
+        {
+            "number": 6,
+            "name": "Sony",
+            "icon": "null",
+            "pageflip": "null",
+            "wObj": {
+                "makeModel": "TV Panasonic ",
+                "type": "d",
+                "icon": "null",
+                "pageflip": "null",
+                "mtcOptions": [
+                    "ir"
+                ],
+                "mtcValues": [
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10011"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10012"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "3",
+                        "eqid": "10013"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "4",
+                        "eqid": "10014"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "5",
+                        "eqid": "10015"
+                    }
+                ],
+                "appUrl": ""
+            },
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "5",
+                "eqid": "10015"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "10015",
+            "type": "d",
+            "makeModel": "TV Panasonic "
+        }
+    ],
+    "device": [],
+    "switchers": [
+        {
+            "number": 8,
+            "name": "Receiver (Tuner, iPod/USB, Net Radio, AUX, BD) Integra DTR-40.4",
+            "icon": "null",
+            "pageflip": "null",
+            "wObj": {
+                "makeModel": "Receiver (Tuner, iPod/USB, Net Radio, AUX, BD) Integra DTR-40.4",
+                "type": "r",
+                "icon": "null",
+                "pageflip": "null",
+                "mtcOptions": [
+                    "tcpip"
+                ],
+                "mtcValues": [
+                    {
+                        "mtc": "tcpip",
+                        "mtcvalue": "60128",
+                        "eqid": "11006",
+                        "ip": "192.168.1.213"
+                    },
+                    {
+                        "mtc": "tcpip",
+                        "mtcvalue": "60128",
+                        "eqid": "11007"
+                    }
+                ],
+                "appUrl": ""
+            },
+            "mtcOptions": {
+                "mtc": "tcpip",
+                "mtcvalue": "60128",
+                "eqid": "11006",
+                "ip": "192.168.1.213"
+            },
+            "commspec": "192.168.1.213:60128",
+            "commprotocol": "tcpip",
+            "eqid": "11006",
+            "type": "r",
+            "makeModel": "Receiver (Tuner, iPod/USB, Net Radio, AUX, BD) Integra DTR-40.4"
+        },
+        {
+            "number": 9,
+            "name": "Audio Switcher Crestron C2N-AMP-4x100",
+            "icon": "null",
+            "pageflip": "null",
+            "wObj": {
+                "makeModel": "Audio Switcher Crestron C2N-AMP-4x100",
+                "type": "a",
+                "icon": "null",
+                "pageflip": "null",
+                "mtcOptions": [
+                    "Cresnet"
+                ],
+                "mtcValues": [
+                    {
+                        "mtc": "Cresnet",
+                        "mtcvalue": "FB",
+                        "eqid": "30501"
+                    },
+                    {
+                        "mtc": "Cresnet",
+                        "mtcvalue": "FC",
+                        "eqid": "30502"
+                    }
+                ],
+                "appUrl": ""
+            },
+            "mtcOptions": {
+                "mtc": "Cresnet",
+                "mtcvalue": "FB",
+                "eqid": "30501"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "30501",
+            "type": "a",
+            "makeModel": "Audio Switcher Crestron C2N-AMP-4x100"
+        },
+        {
+            "number": 10,
+            "name": "Audio Switcher Crestron C2N-AMP-4x100",
+            "icon": "null",
+            "pageflip": "null",
+            "wObj": {
+                "makeModel": "Audio Switcher Crestron C2N-AMP-4x100",
+                "type": "a",
+                "icon": "null",
+                "pageflip": "null",
+                "mtcOptions": [
+                    "Cresnet"
+                ],
+                "mtcValues": [
+                    {
+                        "mtc": "Cresnet",
+                        "mtcvalue": "FB",
+                        "eqid": "30501"
+                    },
+                    {
+                        "mtc": "Cresnet",
+                        "mtcvalue": "FC",
+                        "eqid": "30502"
+                    }
+                ],
+                "appUrl": ""
+            },
+            "mtcOptions": {
+                "mtc": "Cresnet",
+                "mtcvalue": "FC",
+                "eqid": "30502"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "30502",
+            "type": "a",
+            "makeModel": "Audio Switcher Crestron C2N-AMP-4x100"
+        }
+    ],
+    "volumeConts": [
+        {
+            "number": 5,
+            "name": "Amsung",
+            "icon": "null",
+            "pageflip": "null",
+            "wObj": {
+                "makeModel": "TV Samsung UN series",
+                "type": "d",
+                "icon": "null",
+                "pageflip": "null",
+                "mtcOptions": [
+                    "ir",
+                    "rs232"
+                ],
+                "mtcValues": [
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10001"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10002"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "3",
+                        "eqid": "10003"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "4",
+                        "eqid": "10004"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "5",
+                        "eqid": "10005"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10201"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10202"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10203"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10204"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10205"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10206"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10207"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10208"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10209"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10210"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10211"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10212"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10213"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10214"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10215"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10216"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10217"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10218"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10219"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10220"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10221"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10222"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10223"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10224"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10225"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10226"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10227"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10228"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10229"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10230"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10231"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10232"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10233"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10234"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10235"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10236"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10237"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10238"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10239"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10240"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10241"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10242"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10243"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10244"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10245"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10246"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10247"
+                    },
+                    {
+                        "mtc": "rs232",
+                        "mtcvalue": "9600",
+                        "eqid": "10248"
+                    }
+                ],
+                "appUrl": ""
+            },
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "5",
+                "eqid": "10005"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "10005",
+            "type": "d",
+            "makeModel": "TV Samsung UN series"
+        },
+        {
+            "number": 6,
+            "name": "Sony",
+            "icon": "null",
+            "pageflip": "null",
+            "wObj": {
+                "makeModel": "TV Panasonic ",
+                "type": "d",
+                "icon": "null",
+                "pageflip": "null",
+                "mtcOptions": [
+                    "ir"
+                ],
+                "mtcValues": [
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "1",
+                        "eqid": "10011"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "2",
+                        "eqid": "10012"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "3",
+                        "eqid": "10013"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "4",
+                        "eqid": "10014"
+                    },
+                    {
+                        "mtc": "ir",
+                        "mtcvalue": "5",
+                        "eqid": "10015"
+                    }
+                ],
+                "appUrl": ""
+            },
+            "mtcOptions": {
+                "mtc": "ir",
+                "mtcvalue": "5",
+                "eqid": "10015"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "10015",
+            "type": "d",
+            "makeModel": "TV Panasonic "
+        },
+        {
+            "number": 8,
+            "name": "Receiver (Tuner, iPod/USB, Net Radio, AUX, BD) Integra DTR-40.4",
+            "icon": "null",
+            "pageflip": "null",
+            "wObj": {
+                "makeModel": "Receiver (Tuner, iPod/USB, Net Radio, AUX, BD) Integra DTR-40.4",
+                "type": "r",
+                "icon": "null",
+                "pageflip": "null",
+                "mtcOptions": [
+                    "tcpip"
+                ],
+                "mtcValues": [
+                    {
+                        "mtc": "tcpip",
+                        "mtcvalue": "60128",
+                        "eqid": "11006",
+                        "ip": "192.168.1.213"
+                    },
+                    {
+                        "mtc": "tcpip",
+                        "mtcvalue": "60128",
+                        "eqid": "11007"
+                    }
+                ],
+                "appUrl": ""
+            },
+            "mtcOptions": {
+                "mtc": "tcpip",
+                "mtcvalue": "60128",
+                "eqid": "11006",
+                "ip": "192.168.1.213"
+            },
+            "commspec": "192.168.1.213:60128",
+            "commprotocol": "tcpip",
+            "eqid": "11006",
+            "type": "r",
+            "makeModel": "Receiver (Tuner, iPod/USB, Net Radio, AUX, BD) Integra DTR-40.4"
+        },
+        {
+            "number": 9,
+            "name": "Audio Switcher Crestron C2N-AMP-4x100",
+            "icon": "null",
+            "pageflip": "null",
+            "wObj": {
+                "makeModel": "Audio Switcher Crestron C2N-AMP-4x100",
+                "type": "a",
+                "icon": "null",
+                "pageflip": "null",
+                "mtcOptions": [
+                    "Cresnet"
+                ],
+                "mtcValues": [
+                    {
+                        "mtc": "Cresnet",
+                        "mtcvalue": "FB",
+                        "eqid": "30501"
+                    },
+                    {
+                        "mtc": "Cresnet",
+                        "mtcvalue": "FC",
+                        "eqid": "30502"
+                    }
+                ],
+                "appUrl": ""
+            },
+            "mtcOptions": {
+                "mtc": "Cresnet",
+                "mtcvalue": "FB",
+                "eqid": "30501"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "30501",
+            "type": "a",
+            "makeModel": "Audio Switcher Crestron C2N-AMP-4x100"
+        },
+        {
+            "number": 10,
+            "name": "Audio Switcher Crestron C2N-AMP-4x100",
+            "icon": "null",
+            "pageflip": "null",
+            "wObj": {
+                "makeModel": "Audio Switcher Crestron C2N-AMP-4x100",
+                "type": "a",
+                "icon": "null",
+                "pageflip": "null",
+                "mtcOptions": [
+                    "Cresnet"
+                ],
+                "mtcValues": [
+                    {
+                        "mtc": "Cresnet",
+                        "mtcvalue": "FB",
+                        "eqid": "30501"
+                    },
+                    {
+                        "mtc": "Cresnet",
+                        "mtcvalue": "FC",
+                        "eqid": "30502"
+                    }
+                ],
+                "appUrl": ""
+            },
+            "mtcOptions": {
+                "mtc": "Cresnet",
+                "mtcvalue": "FC",
+                "eqid": "30502"
+            },
+            "commspec": "null",
+            "commprotocol": "null",
+            "eqid": "30502",
+            "type": "a",
+            "makeModel": "Audio Switcher Crestron C2N-AMP-4x100"
+        }
+    ],
+    "rooms": [
+        {
+            "number": 1,
+            "name": "Room #1",
+            "equipment": [
+                {
+                    "device": {
+                        "number": 1,
+                        "name": "Apple TV",
+                        "icon": "3",
+                        "pageflip": "53",
+                        "wObj": {
+                            "makeModel": "Streamer Apple TV ",
+                            "type": "s",
+                            "icon": "3",
+                            "pageflip": "53",
+                            "mtcOptions": [
+                                "ir"
+                            ],
+                            "mtcValues": [
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "1",
+                                    "eqid": "22001"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "2",
+                                    "eqid": "22002"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "3",
+                                    "eqid": "22003"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "4",
+                                    "eqid": "22004"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "5",
+                                    "eqid": "22005"
+                                }
+                            ],
+                            "appUrl": ""
+                        },
+                        "mtcOptions": {
+                            "mtc": "ir",
+                            "mtcvalue": "1",
+                            "eqid": "22001"
+                        },
+                        "commspec": "null",
+                        "commprotocol": "null",
+                        "eqid": "22001",
+                        "type": "s",
+                        "makeModel": "Streamer Apple TV "
+                    },
+                    "switcher": {
+                        "number": 6,
+                        "name": "Sony",
+                        "icon": "null",
+                        "pageflip": "null",
+                        "wObj": {
+                            "makeModel": "TV Panasonic ",
+                            "type": "d",
+                            "icon": "null",
+                            "pageflip": "null",
+                            "mtcOptions": [
+                                "ir"
+                            ],
+                            "mtcValues": [
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "1",
+                                    "eqid": "10011"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "2",
+                                    "eqid": "10012"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "3",
+                                    "eqid": "10013"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "4",
+                                    "eqid": "10014"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "5",
+                                    "eqid": "10015"
+                                }
+                            ],
+                            "appUrl": ""
+                        },
+                        "mtcOptions": {
+                            "mtc": "ir",
+                            "mtcvalue": "5",
+                            "eqid": "10015"
+                        },
+                        "commspec": "null",
+                        "commprotocol": "null",
+                        "eqid": "10015",
+                        "type": "d",
+                        "makeModel": "TV Panasonic "
+                    },
+                    "audiozone": "20",
+                    "routestring": "trewetr"
+                },
+                {
+                    "device": {
+                        "number": 1,
+                        "name": "Apple TV",
+                        "icon": "3",
+                        "pageflip": "53",
+                        "wObj": {
+                            "makeModel": "Streamer Apple TV ",
+                            "type": "s",
+                            "icon": "3",
+                            "pageflip": "53",
+                            "mtcOptions": [
+                                "ir"
+                            ],
+                            "mtcValues": [
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "1",
+                                    "eqid": "22001"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "2",
+                                    "eqid": "22002"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "3",
+                                    "eqid": "22003"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "4",
+                                    "eqid": "22004"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "5",
+                                    "eqid": "22005"
+                                }
+                            ],
+                            "appUrl": ""
+                        },
+                        "mtcOptions": {
+                            "mtc": "ir",
+                            "mtcvalue": "1",
+                            "eqid": "22001"
+                        },
+                        "commspec": "null",
+                        "commprotocol": "null",
+                        "eqid": "22001",
+                        "type": "s",
+                        "makeModel": "Streamer Apple TV "
+                    },
+                    "switcher": {
+                        "number": 5,
+                        "name": "Amsung",
+                        "icon": "null",
+                        "pageflip": "null",
+                        "wObj": {
+                            "makeModel": "TV Samsung UN series",
+                            "type": "d",
+                            "icon": "null",
+                            "pageflip": "null",
+                            "mtcOptions": [
+                                "ir",
+                                "rs232"
+                            ],
+                            "mtcValues": [
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "1",
+                                    "eqid": "10001"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "2",
+                                    "eqid": "10002"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "3",
+                                    "eqid": "10003"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "4",
+                                    "eqid": "10004"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "5",
+                                    "eqid": "10005"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "1",
+                                    "eqid": "10201"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "2",
+                                    "eqid": "10202"
+                                },
+                                {
+                                    "mtc": "rs232",
+                                    "mtcvalue": "9600",
+                                    "eqid": "10203"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "1",
+                                    "eqid": "10204"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "2",
+                                    "eqid": "10205"
+                                },
+                                {
+                                    "mtc": "rs232",
+                                    "mtcvalue": "9600",
+                                    "eqid": "10206"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "1",
+                                    "eqid": "10207"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "2",
+                                    "eqid": "10208"
+                                },
+                                {
+                                    "mtc": "rs232",
+                                    "mtcvalue": "9600",
+                                    "eqid": "10209"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "1",
+                                    "eqid": "10210"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "2",
+                                    "eqid": "10211"
+                                },
+                                {
+                                    "mtc": "rs232",
+                                    "mtcvalue": "9600",
+                                    "eqid": "10212"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "1",
+                                    "eqid": "10213"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "2",
+                                    "eqid": "10214"
+                                },
+                                {
+                                    "mtc": "rs232",
+                                    "mtcvalue": "9600",
+                                    "eqid": "10215"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "1",
+                                    "eqid": "10216"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "2",
+                                    "eqid": "10217"
+                                },
+                                {
+                                    "mtc": "rs232",
+                                    "mtcvalue": "9600",
+                                    "eqid": "10218"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "1",
+                                    "eqid": "10219"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "2",
+                                    "eqid": "10220"
+                                },
+                                {
+                                    "mtc": "rs232",
+                                    "mtcvalue": "9600",
+                                    "eqid": "10221"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "1",
+                                    "eqid": "10222"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "2",
+                                    "eqid": "10223"
+                                },
+                                {
+                                    "mtc": "rs232",
+                                    "mtcvalue": "9600",
+                                    "eqid": "10224"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "1",
+                                    "eqid": "10225"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "2",
+                                    "eqid": "10226"
+                                },
+                                {
+                                    "mtc": "rs232",
+                                    "mtcvalue": "9600",
+                                    "eqid": "10227"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "1",
+                                    "eqid": "10228"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "2",
+                                    "eqid": "10229"
+                                },
+                                {
+                                    "mtc": "rs232",
+                                    "mtcvalue": "9600",
+                                    "eqid": "10230"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "1",
+                                    "eqid": "10231"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "2",
+                                    "eqid": "10232"
+                                },
+                                {
+                                    "mtc": "rs232",
+                                    "mtcvalue": "9600",
+                                    "eqid": "10233"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "1",
+                                    "eqid": "10234"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "2",
+                                    "eqid": "10235"
+                                },
+                                {
+                                    "mtc": "rs232",
+                                    "mtcvalue": "9600",
+                                    "eqid": "10236"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "1",
+                                    "eqid": "10237"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "2",
+                                    "eqid": "10238"
+                                },
+                                {
+                                    "mtc": "rs232",
+                                    "mtcvalue": "9600",
+                                    "eqid": "10239"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "1",
+                                    "eqid": "10240"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "2",
+                                    "eqid": "10241"
+                                },
+                                {
+                                    "mtc": "rs232",
+                                    "mtcvalue": "9600",
+                                    "eqid": "10242"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "1",
+                                    "eqid": "10243"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "2",
+                                    "eqid": "10244"
+                                },
+                                {
+                                    "mtc": "rs232",
+                                    "mtcvalue": "9600",
+                                    "eqid": "10245"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "1",
+                                    "eqid": "10246"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "2",
+                                    "eqid": "10247"
+                                },
+                                {
+                                    "mtc": "rs232",
+                                    "mtcvalue": "9600",
+                                    "eqid": "10248"
+                                }
+                            ],
+                            "appUrl": ""
+                        },
+                        "mtcOptions": {
+                            "mtc": "ir",
+                            "mtcvalue": "5",
+                            "eqid": "10005"
+                        },
+                        "commspec": "null",
+                        "commprotocol": "null",
+                        "eqid": "10005",
+                        "type": "d",
+                        "makeModel": "TV Samsung UN series"
+                    },
+                    "audiozone": "20",
+                    "routestring": "hgfdhgdfg"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "name": "Room #2",
+            "equipment": [
+                {
+                    "device": {
+                        "number": 4,
+                        "name": "BluRay",
+                        "icon": "2",
+                        "pageflip": "52",
+                        "wObj": {
+                            "makeModel": "Bluray Samsung ",
+                            "type": "s",
+                            "icon": "2",
+                            "pageflip": "52",
+                            "mtcOptions": [
+                                "ir"
+                            ],
+                            "mtcValues": [
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "1",
+                                    "eqid": "21001"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "2",
+                                    "eqid": "21002"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "3",
+                                    "eqid": "21003"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "4",
+                                    "eqid": "21004"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "5",
+                                    "eqid": "21005"
+                                }
+                            ],
+                            "appUrl": ""
+                        },
+                        "mtcOptions": {
+                            "mtc": "ir",
+                            "mtcvalue": "4",
+                            "eqid": "21004"
+                        },
+                        "commspec": "null",
+                        "commprotocol": "null",
+                        "eqid": "21004",
+                        "type": "s",
+                        "makeModel": "Bluray Samsung "
+                    },
+                    "switcher": {
+                        "number": 9,
+                        "name": "Audio Switcher Crestron C2N-AMP-4x100",
+                        "icon": "null",
+                        "pageflip": "null",
+                        "wObj": {
+                            "makeModel": "Audio Switcher Crestron C2N-AMP-4x100",
+                            "type": "a",
+                            "icon": "null",
+                            "pageflip": "null",
+                            "mtcOptions": [
+                                "Cresnet"
+                            ],
+                            "mtcValues": [
+                                {
+                                    "mtc": "Cresnet",
+                                    "mtcvalue": "FB",
+                                    "eqid": "30501"
+                                },
+                                {
+                                    "mtc": "Cresnet",
+                                    "mtcvalue": "FC",
+                                    "eqid": "30502"
+                                }
+                            ],
+                            "appUrl": ""
+                        },
+                        "mtcOptions": {
+                            "mtc": "Cresnet",
+                            "mtcvalue": "FB",
+                            "eqid": "30501"
+                        },
+                        "commspec": "null",
+                        "commprotocol": "null",
+                        "eqid": "30501",
+                        "type": "a",
+                        "makeModel": "Audio Switcher Crestron C2N-AMP-4x100"
+                    },
+                    "audiozone": "1",
+                    "routestring": "twetrw"
+                },
+                {
+                    "device": {
+                        "number": 2,
+                        "name": "Fios",
+                        "icon": "null",
+                        "pageflip": "null",
+                        "wObj": {
+                            "makeModel": "Fios Motorola ",
+                            "type": "s",
+                            "icon": "null",
+                            "pageflip": "null",
+                            "mtcOptions": [
+                                "ir"
+                            ],
+                            "mtcValues": [
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "1",
+                                    "eqid": "20011"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "2",
+                                    "eqid": "20012"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "3",
+                                    "eqid": "20013"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "4",
+                                    "eqid": "20014"
+                                },
+                                {
+                                    "mtc": "ir",
+                                    "mtcvalue": "5",
+                                    "eqid": "20015"
+                                }
+                            ],
+                            "appUrl": ""
+                        },
+                        "mtcOptions": {
+                            "mtc": "ir",
+                            "mtcvalue": "2",
+                            "eqid": "20012"
+                        },
+                        "commspec": "null",
+                        "commprotocol": "null",
+                        "eqid": "20012",
+                        "type": "s",
+                        "makeModel": "Fios Motorola "
+                    },
+                    "switcher": {
+                        "number": 8,
+                        "name": "Receiver (Tuner, iPod/USB, Net Radio, AUX, BD) Integra DTR-40.4",
+                        "icon": "null",
+                        "pageflip": "null",
+                        "wObj": {
+                            "makeModel": "Receiver (Tuner, iPod/USB, Net Radio, AUX, BD) Integra DTR-40.4",
+                            "type": "r",
+                            "icon": "null",
+                            "pageflip": "null",
+                            "mtcOptions": [
+                                "tcpip"
+                            ],
+                            "mtcValues": [
+                                {
+                                    "mtc": "tcpip",
+                                    "mtcvalue": "60128",
+                                    "eqid": "11006",
+                                    "ip": "192.168.1.213"
+                                },
+                                {
+                                    "mtc": "tcpip",
+                                    "mtcvalue": "60128",
+                                    "eqid": "11007"
+                                }
+                            ],
+                            "appUrl": ""
+                        },
+                        "mtcOptions": {
+                            "mtc": "tcpip",
+                            "mtcvalue": "60128",
+                            "eqid": "11006",
+                            "ip": "192.168.1.213"
+                        },
+                        "commspec": "192.168.1.213:60128",
+                        "commprotocol": "tcpip",
+                        "eqid": "11006",
+                        "type": "r",
+                        "makeModel": "Receiver (Tuner, iPod/USB, Net Radio, AUX, BD) Integra DTR-40.4"
+                    },
+                    "audiozone": "4",
+                    "routestring": "ewrtewer"
+                }
+            ]
+        }
+    ],
+    "interfaces": [
+        {
+            "rooms": [
+                {
+                    "name": "Room #1",
+                    "number": 1,
+                    "zones": [
+                        {
+                            "zone": 1,
+                            "groups": [
+                                {
+                                    "number": 1,
+                                    "equipmentNumber": 3,
+                                    "name": "Sources",
+                                    "equipment": [
+                                        {
+                                            "number": 1,
+                                            "name": {
+                                                "number": 1,
+                                                "name": "Apple TV",
+                                                "icon": "3",
+                                                "pageflip": "53",
+                                                "wObj": {
+                                                    "makeModel": "Streamer Apple TV ",
+                                                    "type": "s",
+                                                    "icon": "3",
+                                                    "pageflip": "53",
+                                                    "mtcOptions": [
+                                                        "ir"
+                                                    ],
+                                                    "mtcValues": [
+                                                        {
+                                                            "mtc": "ir",
+                                                            "mtcvalue": "1",
+                                                            "eqid": "22001"
+                                                        },
+                                                        {
+                                                            "mtc": "ir",
+                                                            "mtcvalue": "2",
+                                                            "eqid": "22002"
+                                                        },
+                                                        {
+                                                            "mtc": "ir",
+                                                            "mtcvalue": "3",
+                                                            "eqid": "22003"
+                                                        },
+                                                        {
+                                                            "mtc": "ir",
+                                                            "mtcvalue": "4",
+                                                            "eqid": "22004"
+                                                        },
+                                                        {
+                                                            "mtc": "ir",
+                                                            "mtcvalue": "5",
+                                                            "eqid": "22005"
+                                                        }
+                                                    ],
+                                                    "appUrl": ""
+                                                },
+                                                "mtcOptions": {
+                                                    "mtc": "ir",
+                                                    "mtcvalue": "1",
+                                                    "eqid": "22001"
+                                                },
+                                                "commspec": "null",
+                                                "commprotocol": "null",
+                                                "eqid": "22001",
+                                                "type": "s",
+                                                "makeModel": "Streamer Apple TV "
+                                            }
+                                        },
+                                        {
+                                            "number": 2,
+                                            "name": {
+                                                "number": 1,
+                                                "name": "Apple TV",
+                                                "icon": "3",
+                                                "pageflip": "53",
+                                                "wObj": {
+                                                    "makeModel": "Streamer Apple TV ",
+                                                    "type": "s",
+                                                    "icon": "3",
+                                                    "pageflip": "53",
+                                                    "mtcOptions": [
+                                                        "ir"
+                                                    ],
+                                                    "mtcValues": [
+                                                        {
+                                                            "mtc": "ir",
+                                                            "mtcvalue": "1",
+                                                            "eqid": "22001"
+                                                        },
+                                                        {
+                                                            "mtc": "ir",
+                                                            "mtcvalue": "2",
+                                                            "eqid": "22002"
+                                                        },
+                                                        {
+                                                            "mtc": "ir",
+                                                            "mtcvalue": "3",
+                                                            "eqid": "22003"
+                                                        },
+                                                        {
+                                                            "mtc": "ir",
+                                                            "mtcvalue": "4",
+                                                            "eqid": "22004"
+                                                        },
+                                                        {
+                                                            "mtc": "ir",
+                                                            "mtcvalue": "5",
+                                                            "eqid": "22005"
+                                                        }
+                                                    ],
+                                                    "appUrl": ""
+                                                },
+                                                "mtcOptions": {
+                                                    "mtc": "ir",
+                                                    "mtcvalue": "1",
+                                                    "eqid": "22001"
+                                                },
+                                                "commspec": "null",
+                                                "commprotocol": "null",
+                                                "eqid": "22001",
+                                                "type": "s",
+                                                "makeModel": "Streamer Apple TV "
+                                            }
+                                        }
+                                    ]
+                                }
+                            ],
+                            "groupNumber": 2
+                        },
+                        {
+                            "zone": 2,
+                            "groups": [],
+                            "groupNumber": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Room #2",
+                    "number": 2,
+                    "zones": [
+                        {
+                            "zone": 1,
+                            "groups": [
+                                {
+                                    "number": 1,
+                                    "equipmentNumber": 3,
+                                    "name": "Sources",
+                                    "equipment": [
+                                        {
+                                            "number": 1,
+                                            "name": {
+                                                "number": 4,
+                                                "name": "BluRay",
+                                                "icon": "2",
+                                                "pageflip": "52",
+                                                "wObj": {
+                                                    "makeModel": "Bluray Samsung ",
+                                                    "type": "s",
+                                                    "icon": "2",
+                                                    "pageflip": "52",
+                                                    "mtcOptions": [
+                                                        "ir"
+                                                    ],
+                                                    "mtcValues": [
+                                                        {
+                                                            "mtc": "ir",
+                                                            "mtcvalue": "1",
+                                                            "eqid": "21001"
+                                                        },
+                                                        {
+                                                            "mtc": "ir",
+                                                            "mtcvalue": "2",
+                                                            "eqid": "21002"
+                                                        },
+                                                        {
+                                                            "mtc": "ir",
+                                                            "mtcvalue": "3",
+                                                            "eqid": "21003"
+                                                        },
+                                                        {
+                                                            "mtc": "ir",
+                                                            "mtcvalue": "4",
+                                                            "eqid": "21004"
+                                                        },
+                                                        {
+                                                            "mtc": "ir",
+                                                            "mtcvalue": "5",
+                                                            "eqid": "21005"
+                                                        }
+                                                    ],
+                                                    "appUrl": ""
+                                                },
+                                                "mtcOptions": {
+                                                    "mtc": "ir",
+                                                    "mtcvalue": "4",
+                                                    "eqid": "21004"
+                                                },
+                                                "commspec": "null",
+                                                "commprotocol": "null",
+                                                "eqid": "21004",
+                                                "type": "s",
+                                                "makeModel": "Bluray Samsung "
+                                            }
+                                        },
+                                        {
+                                            "number": 2,
+                                            "name": {
+                                                "number": 2,
+                                                "name": "Fios",
+                                                "icon": "null",
+                                                "pageflip": "null",
+                                                "wObj": {
+                                                    "makeModel": "Fios Motorola ",
+                                                    "type": "s",
+                                                    "icon": "null",
+                                                    "pageflip": "null",
+                                                    "mtcOptions": [
+                                                        "ir"
+                                                    ],
+                                                    "mtcValues": [
+                                                        {
+                                                            "mtc": "ir",
+                                                            "mtcvalue": "1",
+                                                            "eqid": "20011"
+                                                        },
+                                                        {
+                                                            "mtc": "ir",
+                                                            "mtcvalue": "2",
+                                                            "eqid": "20012"
+                                                        },
+                                                        {
+                                                            "mtc": "ir",
+                                                            "mtcvalue": "3",
+                                                            "eqid": "20013"
+                                                        },
+                                                        {
+                                                            "mtc": "ir",
+                                                            "mtcvalue": "4",
+                                                            "eqid": "20014"
+                                                        },
+                                                        {
+                                                            "mtc": "ir",
+                                                            "mtcvalue": "5",
+                                                            "eqid": "20015"
+                                                        }
+                                                    ],
+                                                    "appUrl": ""
+                                                },
+                                                "mtcOptions": {
+                                                    "mtc": "ir",
+                                                    "mtcvalue": "2",
+                                                    "eqid": "20012"
+                                                },
+                                                "commspec": "null",
+                                                "commprotocol": "null",
+                                                "eqid": "20012",
+                                                "type": "s",
+                                                "makeModel": "Fios Motorola "
+                                            }
+                                        }
+                                    ]
+                                }
+                            ],
+                            "groupNumber": 2
+                        },
+                        {
+                            "zone": 2,
+                            "groups": [],
+                            "groupNumber": 1
+                        }
+                    ]
+                }
+            ],
+            "number": 1,
+            "name": "Interface #1",
+            "device": {
+                "model": "iPad",
+                "id": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "6",
+                    "7",
+                    "8",
+                    "9"
+                ],
+                "type": [
+                    "IPID",
+                    "IPID",
+                    "IPID",
+                    "IPID",
+                    "IPID",
+                    "IPID",
+                    "IPID",
+                    "IPID"
+                ],
+                "port": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "cxbid": [
+                    "1050",
+                    "1100",
+                    "1150",
+                    "1200",
+                    "1050",
+                    "1100",
+                    "1150",
+                    "1200"
+                ],
+                "eqid": [
+                    "202",
+                    "203",
+                    "204",
+                    "205",
+                    "202",
+                    "203",
+                    "204",
+                    "205"
+                ],
+                "used": [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        }
+    ],
+    "iwobj": [
+        {
+            "model": "iPad",
+            "id": [
+                "6",
+                "7",
+                "8",
+                "9",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "type": [
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID"
+            ],
+            "port": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "cxbid": [
+                "1050",
+                "1100",
+                "1150",
+                "1200",
+                "1050",
+                "1100",
+                "1150",
+                "1200"
+            ],
+            "eqid": [
+                "202",
+                "203",
+                "204",
+                "205",
+                "202",
+                "203",
+                "204",
+                "205"
+            ],
+            "used": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "model": "iPhone",
+            "id": [
+                "0A",
+                "0B",
+                "0C",
+                "0D",
+                "0E",
+                "0A",
+                "0B",
+                "0C",
+                "0D",
+                "0E"
+            ],
+            "type": [
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID"
+            ],
+            "port": [
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "cxbid": [
+                "1250",
+                "1300",
+                "1350",
+                "1400",
+                "1450",
+                "1250",
+                "1300",
+                "1350",
+                "1400",
+                "1450"
+            ],
+            "eqid": [
+                "206",
+                "207",
+                "208",
+                "209",
+                "210",
+                "206",
+                "207",
+                "208",
+                "209",
+                "210"
+            ],
+            "used": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "model": "TSW-750",
+            "id": [
+                "0F",
+                "10",
+                "11",
+                "12",
+                "13",
+                "0F",
+                "10",
+                "11",
+                "12",
+                "13"
+            ],
+            "type": [
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID"
+            ],
+            "port": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "cxbid": [
+                "1500",
+                "1550",
+                "1600",
+                "1650",
+                "1700",
+                "1500",
+                "1550",
+                "1600",
+                "1650",
+                "1700"
+            ],
+            "eqid": [
+                "211",
+                "212",
+                "213",
+                "214",
+                "215",
+                "211",
+                "212",
+                "213",
+                "214",
+                "215"
+            ],
+            "used": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "model": "TSW-1050",
+            "id": [
+                "14",
+                "15",
+                "16",
+                "17",
+                "18",
+                "14",
+                "15",
+                "16",
+                "17",
+                "18"
+            ],
+            "type": [
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID",
+                "IPID"
+            ],
+            "port": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "cxbid": [
+                "1750",
+                "1800",
+                "1850",
+                "1900",
+                "1950",
+                "1750",
+                "1800",
+                "1850",
+                "1900",
+                "1950"
+            ],
+            "eqid": [
+                "216",
+                "217",
+                "218",
+                "219",
+                "220",
+                "216",
+                "217",
+                "218",
+                "219",
+                "220"
+            ],
+            "used": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "model": "C2N-CBD-P",
+            "id": [
+                "41",
+                "42",
+                "43",
+                "44",
+                "45",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "type": [
+                "Cresnet ID",
+                "Cresnet ID",
+                "Cresnet ID",
+                "Cresnet ID",
+                "Cresnet ID",
+                "Cresnet ID",
+                "Cresnet ID",
+                "Cresnet ID",
+                "Cresnet ID",
+                "Cresnet ID"
+            ],
+            "port": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "cxbid": [
+                "4500",
+                "4550",
+                "4600",
+                "4650",
+                "4700",
+                "4500",
+                "4550",
+                "4600",
+                "4650",
+                "4700"
+            ],
+            "eqid": [
+                "271",
+                "272",
+                "273",
+                "274",
+                "275",
+                "271",
+                "272",
+                "273",
+                "274",
+                "275"
+            ],
+            "used": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "model": "MLX-3",
+            "id": [
+                "6A",
+                "6B",
+                "6C",
+                "6A",
+                "6B",
+                "6C"
+            ],
+            "type": [
+                "Infinet ID",
+                "Infinet ID",
+                "Infinet ID",
+                "Infinet ID",
+                "Infinet ID",
+                "Infinet ID"
+            ],
+            "port": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "cxbid": [
+                "5650",
+                "5700",
+                "5750",
+                "5650",
+                "5700",
+                "5750"
+            ],
+            "eqid": [
+                "294",
+                "295",
+                "296",
+                "294",
+                "295",
+                "296"
+            ],
+            "used": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ]
+}

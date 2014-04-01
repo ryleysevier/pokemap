@@ -1,0 +1,246 @@
+{
+    "processor": {
+        "configfile": {
+            "device": [
+                {
+                    "number": 1,
+                    "name": "TiVo TiVo ",
+                    "icon": "18",
+                    "pageflip": "62",
+                    "commspec": "192.168.1.150:31339",
+                    "commprotocol": "tcpip",
+                    "eqid": "20018",
+                    "appUrl": "fb129267530460609://",
+                    "category": "source"
+                },
+                {
+                    "number": 2,
+                    "name": "Bluray Pioneer BDP-53FD",
+                    "icon": "2",
+                    "pageflip": "66",
+                    "commspec": "null",
+                    "commprotocol": "null",
+                    "eqid": "21011",
+                    "category": "source"
+                },
+                {
+                    "number": 3,
+                    "name": "Integra Thingy",
+                    "icon": "null",
+                    "pageflip": "null",
+                    "commspec": "192.168.1.147:60128",
+                    "commprotocol": "tcpip",
+                    "eqid": "11006",
+                    "category": "source"
+                },
+                {
+                    "number": 13,
+                    "name": "TV Apps",
+                    "icon": "13",
+                    "pageflip": "65",
+                    "commspec": "null",
+                    "commprotocol": "null",
+                    "eqid": "20027",
+                    "category": "source"
+                },
+                {
+                    "number": 10,
+                    "name": "TV Sharp ",
+                    "icon": "null",
+                    "pageflip": "null",
+                    "commspec": "null",
+                    "commprotocol": "null",
+                    "eqid": "10008",
+                    "category": "display"
+                },
+                {
+                    "number": 11,
+                    "name": "TV Sharp ",
+                    "icon": "null",
+                    "pageflip": "null",
+                    "commspec": "null",
+                    "commprotocol": "null",
+                    "eqid": "10009",
+                    "category": "display"
+                },
+                {
+                    "number": 12,
+                    "name": "TV Panasonic",
+                    "icon": "null",
+                    "pageflip": "null",
+                    "commspec": "null",
+                    "commprotocol": "null",
+                    "eqid": "10015",
+                    "category": "display"
+                },
+                {
+                    "number": 7,
+                    "name": "Thermostat Crestron CHV-TSTATEX",
+                    "icon": "null",
+                    "pageflip": "null",
+                    "commspec": "null",
+                    "commprotocol": "null",
+                    "eqid": "40001",
+                    "category": "climate"
+                },
+                {
+                    "number": 8,
+                    "name": "Thermostat Crestron CHV-TSTATEX",
+                    "icon": "null",
+                    "pageflip": "null",
+                    "commspec": "null",
+                    "commprotocol": "null",
+                    "eqid": "40002",
+                    "category": "climate"
+                },
+                {
+                    "number": 9,
+                    "name": "Other Thermometer",
+                    "icon": "null",
+                    "pageflip": "null",
+                    "commspec": "null",
+                    "commprotocol": "null",
+                    "eqid": "40051",
+                    "category": "climate"
+                },
+                {
+                    "number": 4,
+                    "name": "Audio Switcher Crestron C2N-AMP-4x100",
+                    "icon": "null",
+                    "pageflip": "null",
+                    "commspec": "null",
+                    "commprotocol": "null",
+                    "eqid": "30501",
+                    "category": "ar"
+                },
+                {
+                    "number": 5,
+                    "name": "Video Switcher Key Digital KD-4X4",
+                    "icon": "null",
+                    "pageflip": "null",
+                    "commspec": "null",
+                    "commprotocol": "null",
+                    "eqid": "30001",
+                    "category": "vr"
+                }
+            ],
+            "room": [
+                {
+                    "number": 1,
+                    "name": "Room #1",
+                    "equipment": [
+                        {
+                            "device": 9,
+                            "audiozone": "1",
+                            "routestring": "1231",
+                            "voleqid": "30501"
+                        },
+                        {
+                            "device": 3,
+                            "audiozone": "1",
+                            "routestring": "234",
+                            "voleqid": "30001"
+                        },
+                        {
+                            "device": 2,
+                            "audiozone": "2",
+                            "routestring": "345",
+                            "voleqid": "30001"
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "name": "Room #2",
+                    "equipment": [
+                        {
+                            "device": 9,
+                            "audiozone": "4",
+                            "routestring": "456",
+                            "voleqid": "30501"
+                        },
+                        {
+                            "device": 7,
+                            "audiozone": "4",
+                            "routestring": "567",
+                            "voleqid": "30001"
+                        },
+                        {
+                            "device": 5,
+                            "audiozone": "5",
+                            "routestring": "678",
+                            "voleqid": "30001"
+                        }
+                    ]
+                }
+            ],
+            "interface": [
+                {
+                    "name": "iPad",
+                    "eqid": "6",
+                    "location": 2,
+                    "control": [
+                        {
+                            "room": 1,
+                            "zone": [
+                                {
+                                    "group": [
+                                        {
+                                            "name": "R1 Z1 G1",
+                                            "equipment": [
+                                                1,
+                                                5
+                                            ],
+                                            "icon": "1"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "default": "1",
+                                    "group": [
+                                        {
+                                            "name": "R1 Z2 G1",
+                                            "equipment": [
+                                                2
+                                            ],
+                                            "icon": "1"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "room": 2,
+                            "zone": [
+                                {
+                                    "default": "1",
+                                    "group": [
+                                        {
+                                            "name": "R1 Z1 G1",
+                                            "equipment": [
+                                                3
+                                            ],
+                                            "icon": "1"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "default": "1",
+                                    "group": [
+                                        {
+                                            "name": "R2 Z2 G1",
+                                            "equipment": [
+                                                4
+                                            ],
+                                            "icon": "1"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

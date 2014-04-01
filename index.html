@@ -1,0 +1,113 @@
+<!doctype html>
+<html ng-app="Pokemap">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.css" media="screen">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css">
+        <link rel="stylesheet" type="text/css" href="css/app.css">
+    </head>
+
+    <body ng-controller="PokemapCntl"  ng-cloak class="ng-cloak">
+        <div id="wrap" class="pokebar">
+            <div id="main" class="clear-top">
+                <nav class="navbar navbar-default" role="navigation">
+                    <div class="container-fluid">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand" href="#">PokeMap</a>
+                        </div>
+                    </div><!-- /.container-fluid -->
+                </nav>
+
+                <div class="container">
+                    <div>
+                        <div>
+
+                            <div class="row-fluid">
+                                <form class="" role="search">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" placeholder="Search" ng-model="search">
+                                    </div>
+                                </form>
+                            </div>
+
+                            <div class="row-fluid">
+                                <div ng-repeat="poke in pokemon | filter:search" class="col-md-3">
+                                    <div class="panel panel-default animate height235">
+                                        <div class="panel-heading">
+                                            <strong>{{poke.number}}</strong> | {{poke.name}}
+                                            <a ng-if="poke.name == '' && !poke.showNewName" ng-click="showNewName(poke)" class="btn btn-sm pull-right">Add Pokemon</a>
+                                            <div class="form-group" ng-if="poke.showNewName == true">
+                                                <div class="input-group">
+                                                    <input type="text" class="form-control" placeholder="Pokemon Name" ng-model="poke.newName">
+                                                    <span class="input-group-btn">
+                                                        <button class="btn btn-default" type="button" ng-click="updateName(poke)">Go!</button>
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="panel-body animate">
+                                            <div class="pokeimg pull-right">
+                                                <a href="#" class="thumbnail"  class="pokeimg">
+                                                    <img ng-src="{{poke.img_url}}" alt="">
+                                                </a>
+                                            </div>
+                                            <button class="btn" ng-if="!poke.locLoaded" ng-click="getLocations(poke)">Show Locations</button>
+
+                                            <div ng-if="poke.locLoaded" class="animate">
+                                                <h5><small>Click to open in Google Maps</small></h5>
+                                                <span ng-repeat="loc in poke.locs" class="animate-repeat small"><a href="http://maps.google.com/?q={{loc}}&z=17">{{loc}}</a></span>
+                                                <a ng-if="poke.locs.length < 5 && poke.showNewLoc == false" class="btn" ng-click="showNewLoc(poke)">+ Add location</a>
+                                                <div class="form-group" ng-if="poke.showNewLoc == true">
+
+                                                    <div class="input-group">
+                                                        <input type="text" class="form-control" placeholder="New location" ng-model="poke.newLoc">
+                                                          <span class="input-group-btn">
+                                                            <button class="btn btn-default" type="button" ng-click="addNewLoc(poke)">Go!</button>
+                                                          </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="footer">
+                <div class="container">
+                    <p class="text-muted text-center">Rapidly Developed by Ryley Sevier and Christopher White</p>
+                    <p class="text-muted text-center">Using AngularJS, Bootstrap 3</p>
+                </div>
+            </div>
+        </div>
+
+        <script src="lib\angular\angular_1.2.0-rc.3.js"></script>
+        <script src="lib\angular\angular-route_1.2.0-rc.3.js"></script>
+        <script src="lib\angular\angular-sanitize_1.2.0-rc.3.js"></script>
+        <script src="lib\angular\angular-cookies_1.2.0-rc.3.js"></script>
+        <script src="lib\angular\angular-animate_1.2.0-rc.3.js"></script>
+
+        <script src="js/bootstrap/ui-bootstrap-0.9.0.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script src="js/bootstrap/bootstrap.js"></script>
+
+        <script src="js/app.js"></script>
+        <script src="js/services/services.js"></script>
+        <script src="js/controllers.js"></script>
+
+        <script src="componentPages/homePage/homeController.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,9 @@
+[11-Nov-2013 23:43:54] PHP Parse error:  syntax error, unexpected ';' in /home1/casaplex/public_html/sap/builder/app/options.php on line 38
+[11-Nov-2013 23:53:25] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home1/casaplex/public_html/sap/builder/app/options.php on line 65
+[12-Nov-2013 02:24:55] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/casaplex/public_html/sap/builder/app/options.php on line 105
+[12-Nov-2013 02:31:36] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/casaplex/public_html/sap/builder/app/options.php on line 100
+[12-Nov-2013 02:34:06] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/casaplex/public_html/sap/builder/app/options.php on line 102
+[26-Dec-2013 10:27:17] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/casaplex/public_html/sap/dev/crcTest.php on line 31
+[26-Dec-2013 10:27:54] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/casaplex/public_html/sap/dev/crcTest.php on line 32
+[26-Dec-2013 10:40:03] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/casaplex/public_html/sap/dev/crcTest.php on line 32
+[26-Dec-2013 10:40:13] PHP Fatal error:  Call to undefined function  crc() in /home1/casaplex/public_html/sap/dev/crcTest.php on line 4
